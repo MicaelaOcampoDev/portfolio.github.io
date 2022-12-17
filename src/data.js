@@ -3,7 +3,7 @@ import proyectoDos from "../src/img/proyectoDos.png";
 import proyectoTres from "../src/img/proyectoTres.png";
 import proyectoCuatro from "../src/img/proyectoCuatro.png";
 import proyectoCinco from "../src/img/proyectoCinco.png";
-
+import proyectoSeis from "../src/img/proyectoSeis.png";
 export const products = [
   {
     id: 1,
@@ -32,7 +32,7 @@ export const products = [
   },
   {
     id: 6,
-    img: proyectoUno,
-    link: "https://www.pexels.com/",
+    img: proyectoSeis,
+    link: "https://netflix-clonesearch.netlify.app/",
   },
 ];
