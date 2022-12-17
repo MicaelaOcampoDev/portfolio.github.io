@@ -8,7 +8,7 @@ export const products = [
   {
     id: 1,
     img: proyectoUno,
-    link: "http://www.rescatescomodogs.com/",
+    link: "https://micaela-portfolio.netlify.app/",
   },
   {
     id: 2,
