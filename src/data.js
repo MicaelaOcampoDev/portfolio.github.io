@@ -1,5 +1,8 @@
 import proyectoUno from "../src/img/proyectoUno.png";
 import proyectoDos from "../src/img/proyectoDos.png";
+import proyectoTres from "../src/img/proyectoTres.png";
+import proyectoCuatro from "../src/img/proyectoCuatro.png";
+import proyectoCinco from "../src/img/proyectoCinco.png";
 
 export const products = [
   {
@@ -14,18 +17,18 @@ export const products = [
   },
   {
     id: 3,
-    img: proyectoUno,
-    link: "https://www.pexels.com/",
+    img: proyectoTres,
+    link: "https://bebifiupet-sitters.netlify.app/index.html",
   },
   {
     id: 4,
-    img: proyectoUno,
-    link: "https://www.pexels.com/",
+    img: proyectoCuatro,
+    link: "https://morningstar-web.netlify.app/",
   },
   {
     id: 5,
-    img: proyectoUno,
-    link: "https://www.pexels.com/",
+    img: proyectoCinco,
+    link: "https://comodogsweb.netlify.app/",
   },
   {
     id: 6,
