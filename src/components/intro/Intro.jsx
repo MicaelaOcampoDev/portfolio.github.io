@@ -6,19 +6,19 @@ const Intro = () => {
         <div className="i">
             <div className="i-left">
                 <div className="i-left-wrapper">
-                    <h2 className='i-intro'>ALOJAMIENTOS PARA ANIMALES</h2>
-                    <h2 className='i-name'>A TU ALCANCE</h2>
+                    <h2 className='i-intro'>Bienvenidos, mi nombre es</h2>
+                    <h2 className='i-name'>Micaela Ocampo</h2>
                     <div className="i-title">
                         <div className="i-title-wrapper">
-                            <div className="i-title-item">Guarderias caninas</div>
-                            <div className="i-title-item">Guarderias felinas</div>
-                            <div className="i-title-item">Cuidadores a domicilio</div>
-                            <div className="i-title-item">Adopciones</div>
-                            <div className="i-title-item">Publicidad</div>                        
+                            <div className="i-title-item">Web Developer</div>
+                            <div className="i-title-item">Web Developer</div>
+                            <div className="i-title-item">Web Developer</div>
+                            <div className="i-title-item">Web Developer</div>
+                            <div className="i-title-item">Web Developer</div>                        
                         </div>
                     </div>
                     <p className="i-desc">
-                    🐶Somos una empresa que se dedica a facilitarte el cuidado de tu amiguito de cuatro patas!
+                    🙌🏼Soy desarrolladora web FullStack. Me apasiona el conocimiento y estar en constante aprendizaje. Tengo la intención de poder dedicarme plenamente a la programacion en el futuro.
                     </p>
                 </div>
             </div>
