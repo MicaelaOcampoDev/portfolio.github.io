@@ -12,7 +12,7 @@ const About = () => {
                 </div>
             </div>
             <div className="a-right">
-                <h1 className="a-title">Acerca de mi </h1>
+                <h1 className="a-title">SERVICIOS</h1>
                 <p className="a-sub"> 👩🏽‍💻Estudiante de Licenciatura en Sistemas en UNGS. </p>
                 <p className="a-desc">Actualmente tambien me encuentro cursando un Bootcamp de desarrollo web Full Stack, de la Fundacion Pescar asociada con JP Morgan. Y entre los cursos que realizo diariamente, se encuentra el de Diseño de Experiencia del Usuario (UX) de Google.🤓
                     </p>
